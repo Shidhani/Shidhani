@@ -1,9 +1,9 @@
 <h3> Hi 👋 <br> I'm Aafaq </h3>
 <br>
-<h3>
+<h4>
 🚀  On a mission to create an inspirational future with the power of technology. And trying to make a difference by turning problems into opportunities. 
 
-💻  Mostly busy discovering the potential of AI, creating websites, thinking of a better world, or feeding my mind by reading.</h3>
+💻  Mostly busy discovering the potential of AI, creating websites, thinking of a better world, or feeding my mind by reading.</h4>
 
 📫 Reach me at **Aafaq@Shidhani.com**
 
