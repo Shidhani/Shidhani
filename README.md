@@ -1,4 +1,4 @@
-<h2> Hi 👋 <br> I'm Aafaq </h2>
+<h3> Hi 👋 <br> I'm Aafaq </h3>
 <br>
 <h3>
 🚀  On a mission to create an inspirational future with the power of technology. And trying to make a difference by turning problems into opportunities. 
